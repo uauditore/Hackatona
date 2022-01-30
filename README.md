@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+![](src/img/donnas-banner.jpeg)
+# Hackatona | ADE SAMPA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### **A TECNOLOGIA E O DESENVOLVIMENTO DE POLÍTICAS PÚBLICAS PARA AS MULHERES**
 
-## Available Scripts
+Nos dias atuais as mulheres ainda encontram problemas estruturais, antigos e novos, que dificultam a busca por igualdade social em todos os aspectos. Apesar da popularização dos debates sobre a igualdade de gêneros, o feminismo e o combate ao machismo, ainda é comum ler e ouvir relatos sobre desigualdades salariais, violência sexual, feminicídio, baixa representatividade política, entre outros.
+<br></br>
 
-In the project directory, you can run:
+#### **EQUIPE 490 - DONNAS**
+##### **DESIGNERS:** [**Karina Martins Vieira**](https://www.linkedin.com/in/karinamartinsv/)
+##### **MARKETING:** [**Ana Maria da Silva de Jesus**](https://www.linkedin.com/in/ana-maria-aa350b222/) e [**Débora dos Santos da Paixão Freitas**](https://www.linkedin.com/in/débora-paixão-freitas-65317b216)
+##### **DESENVOLVEDORA:** [**Mariana Gondin Peres**](https://www.linkedin.com/in/marianagondin/)
 
-### `npm start`
+<br></br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### **QUEM ESTÁ PROPONDO ESSE DESAFIO?**
+A ADE SAMPA – Agência São Paulo de Desenvolvimento – vem para fortalecer e apoiar as pessoas que têm, ou querem abrir, um negócio nas periferias da cidade de São Paulo. Seu objetivo é atender e acompanhar esses empreendedores desde o início de sua jornada.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+_A Hackatona é uma iniciativa da Prefeitura da Cidade de São Paulo, por meio da Secretaria Municipal de Desenvolvimento Econômico, Trabalho e Turismo, intermédio da ADE SAMPA; com patrocínio da AWS, Uber Brasil e Buser. O apoio do programa Tem Saída, Dasa, Cronapp, Marisa, IFood, Laboratório Salomão Zoppi e produção da Comunidade Hackathon Brasil._
 
-### `npm test`
+<br></br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### **SOBRE O PROJETO 'DONNAS'**
+Donnas é um aplicativo de consulta clínica online gratuita, composta por profissionais voluntárias, voltado para mulheres , ***cis e trans***, que necessitam de atendimento e cuidado físico, mental e materno.
 
-### `npm run build`
+A plataforma necessitará de acesso a um banco de dados para cadastro dos clientes e profissionais, publicação de fóruns e um método de videoconferência para realização de consultas online. Para isso, é necessário a estruturação de uma equipe de tecnologia e a disponibilização voluntaria de profissionais da saúde (exclusivamente mulheres) qualificadas nos seguimentos de foco da plataforma (saúde sexual, hormonal e psicológica).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br></br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### **HÁ SOLUÇÕES SIMILARES NO MERCADO? QUAIS?**
+Alice, Vibe e Zenklub são soluções similares no mercado. Utilizamos o Zenklub como referência no modelo fácil e interativo de marcação de consultas.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br></br>
 
-### `npm run eject`
+#### **O GRANDE DIFERENCIAL**
+Nosso grande diferencial é ser uma plataforma gratuita, mais interativa e exclusiva para mulheres.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br></br>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### **POSSÍVEIS IMPACTOS**
+O impacto está na informação de qualidade chegando ao maior número possível de mulheres da cidade de São Paulo, por meio de uma plataforma de maior engajamento e interatividade, podendo gerar mais conhecimento na população feminina sobre questões próprias de saúde, levando ao diagnóstico de patologias mais precocemente, maior conscientização sobre assuntos que são um tabu (como a saúde mental) e ocasionando um “efeito dominó”, pois mulheres com mais saúde por mais tempo podem trabalhar melhor, realizar outras atividades com mais disposição e, é claro, informar melhor outras mulheres.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](src/img/donnas-banner-final.jpeg)

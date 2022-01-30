@@ -1,0 +1,17 @@
+.first-page{
+  color: var(--green);
+}
+
+.first-page__logo {
+  margin: 0 auto;
+}
+
+.first-page__form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+}
+
+.first-page__cadastro {
+  margin: 2rem auto 0 auto;
+}

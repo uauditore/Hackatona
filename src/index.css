@@ -5,9 +5,52 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --green: #5FC2A7;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+  width: 100%;
+  padding: 1rem;
+}
+
+.center-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+  padding: 1.5rem;
+}
+
+.button {
+  background-color: var(--green);
+  color: white;
+  border: none;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.logo {
+  width: fit-content;
+}
+
+.ta-center {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: var(--green);
 }

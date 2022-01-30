@@ -1,14 +1,17 @@
 import React from 'react';
 import { useNavigate } from 'react-router';
+import './Firstpage.css'
+import mulheresImg from '../imgs/mulheres_maos_pra_cima.png'
+import logo from '../imgs/logo.png'
 
 export default function Firstpage () {
   const navigate = useNavigate();
   return (
-      <div>
-        <img src="" alt="logo" />
-        <img src="" alt="ilustracao1" />
+      <div className='first-page center-page'>
+        <img src={logo} alt="logo" className='first-page__logo'/>
+        <img src={mulheresImg} alt="" />
         <h2>Seja bem-vinda</h2>
-        <form>
+        <form className='first-page__form'>
           <label>
             <input type="radio" />
             Sou paciente
@@ -18,10 +21,10 @@ export default function Firstpage () {
             Sou profissional
           </label>
         </form>
-        <button onClick={ () => navigate('/login') }>
+        <button className='button' onClick={ () => navigate('/login') }>
           Quero me cadastrar
         </button>
-        <button>Já sou Cadastrado</button>
+        <p className='first-page__cadastro'>Já sou cadastrado</p>
       </div>
     )
   }

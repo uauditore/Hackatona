@@ -7,7 +7,7 @@ import { useNavigate } from 'react-router';
 export default function Home() {
   const navigate = useNavigate();
   return (
-    <div>
+    <div className='center-page'>
       <Header />
       <span>Categorias recentes</span>
       {
