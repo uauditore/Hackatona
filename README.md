@@ -1,4 +1,4 @@
-![](src/img/donnas-banner.jpeg)
+![](./src/img/donnas-banner.jpeg)
 # Hackatona | ADE SAMPA
 
 #### **A TECNOLOGIA E O DESENVOLVIMENTO DE POLÍTICAS PÚBLICAS PARA AS MULHERES**
@@ -40,4 +40,4 @@ Nosso grande diferencial é ser uma plataforma gratuita, mais interativa e exclu
 #### **POSSÍVEIS IMPACTOS**
 O impacto está na informação de qualidade chegando ao maior número possível de mulheres da cidade de São Paulo, por meio de uma plataforma de maior engajamento e interatividade, podendo gerar mais conhecimento na população feminina sobre questões próprias de saúde, levando ao diagnóstico de patologias mais precocemente, maior conscientização sobre assuntos que são um tabu (como a saúde mental) e ocasionando um “efeito dominó”, pois mulheres com mais saúde por mais tempo podem trabalhar melhor, realizar outras atividades com mais disposição e, é claro, informar melhor outras mulheres.
 
-![](src/img/donnas-banner-final.jpeg)
+![](./src/img/donnas-banner-final.jpeg)
