@@ -13,6 +13,6 @@ const options = {
   baby,
 };
 
-const horarios = ['13/02 11h40', '13/02 14h20', '13/02 15h30', '14/02 11h40', '14/02 14h20', '14/02 15h30' ]
+export const horarios = ['13/02 11h40', '13/02 14h20', '13/02 15h30', '14/02 11h40', '14/02 14h20', '14/02 15h30' ]
 
-export default (options, horarios);
+export default options;

@@ -47,6 +47,10 @@ input[type="text"], input[type="email"], input[type="password"] {
   width: fit-content;
 }
 
+.color-green {
+  color: var(--green);
+}
+
 .ta-center {
   text-align: center;
 }

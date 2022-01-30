@@ -2,7 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router';
 import Footer from './Footer';
 import medica1 from '../imgs/medica_beatriz.png'
-import horarios from '../helpers/options'
+import { horarios } from '../helpers/options'
 
 export default function Marcacao() {
   const navigate = useNavigate();

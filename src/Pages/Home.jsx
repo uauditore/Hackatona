@@ -10,14 +10,12 @@ export default function Home() {
     <div className='center-page'>
       <Header />
       <span>Categorias recentes</span>
-      {
-        'vai ter uma categoria aqui'
-      }
+      <h5>Psicologia</h5>
       <button type="button" onClick={ () => navigate('/categories') }>Ver todas Categorias</button>
       <h3>Consultas</h3>
-      {
-        'Vai ter algo aqui que ainda não entrou'
-      }
+      <div>
+        
+      </div>
       <h3>Forúm</h3>
       {
         'Vai ter outro algo aqui'
