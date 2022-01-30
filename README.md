@@ -1,4 +1,4 @@
-![](./src/img/donnas-banner.jpeg)
+![](./src/imgs/donnas-banner.jpeg)
 # Hackatona | ADE SAMPA
 
 #### **A TECNOLOGIA E O DESENVOLVIMENTO DE POLÍTICAS PÚBLICAS PARA AS MULHERES**
